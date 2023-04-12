@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ApiFetchwithGenratorfunc/static/css/main.e6c13ad2.css",
+    "main.js": "/ApiFetchwithGenratorfunc/static/js/main.fd2c8df3.js",
+    "static/js/787.88ad0cea.chunk.js": "/ApiFetchwithGenratorfunc/static/js/787.88ad0cea.chunk.js",
+    "index.html": "/ApiFetchwithGenratorfunc/index.html",
+    "main.e6c13ad2.css.map": "/ApiFetchwithGenratorfunc/static/css/main.e6c13ad2.css.map",
+    "main.fd2c8df3.js.map": "/ApiFetchwithGenratorfunc/static/js/main.fd2c8df3.js.map",
+    "787.88ad0cea.chunk.js.map": "/ApiFetchwithGenratorfunc/static/js/787.88ad0cea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.fd2c8df3.js"
+  ]
+}
