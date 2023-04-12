@@ -1,0 +1,15 @@
+React End Topic:
+
+---Genrator Function
+---Handlling     deply study to learn backend =-----=>    http request
+---React DOM updateing system
+Use Reduce/Redux *
+State manafment with  Redux *
+Single page Appication router (done)
+
+
+
+Batch funciton 1 table ka dusru ki bnapr data display krwana depend krna 
+Portal of refs
+Debugging in react
+Testing and Deployement
